@@ -1,4 +1,4 @@
-![Header image](https://github.com/dbdbga/dbdbga/blob/main/assets/images/Github_Header.png)
+![Header image](https://github.com/dbdbga/dbdbga/blob/main/assets/images/Github_Header2.png)
 
 ## Further About
 - 🌎 I'm an electrical engineer from Texas
