@@ -1,5 +1,5 @@
 ## Hi there, I'm David Vega 👋
-
+![Header image](https://github.com/dbdbga/dbdbga/blob/main/assets/images/Github_Header.png)
 
 - 🌎 I'm an electrical engineer from Texas
 - ✈️ I'm currently working on wiring harness designs for LM
