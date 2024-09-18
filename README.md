@@ -9,4 +9,6 @@
 - Python
 - C++
 - Embedded C
+- RTOS
+- PCB Design
 <img src="https://github.com/dbdbga/dbdbga/blob/main/assets/images/cat_1.png" width="280">
